@@ -1,0 +1,2 @@
+import xnxbrute
+xnxbrute.login()
