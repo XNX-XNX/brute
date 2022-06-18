@@ -1,5 +1,5 @@
 import os
-os.ysstem('clear')
+os.system('clear')
 os.system('git pull')
 os.system('clear')
 import xnxbrute
